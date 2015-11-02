@@ -95,6 +95,7 @@ li.checked {
 
 li.checked .text {
   text-decoration: line-through;
+  font-size: 2em;
 }
 
 li.private {
